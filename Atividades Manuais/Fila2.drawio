@@ -1,0 +1,710 @@
+<mxfile host="app.diagrams.net" modified="2024-03-19T17:54:43.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="bXnHB32vCBjxW3QLq1LT" version="24.0.7" type="device" pages="36">
+  <diagram name="Etapa1" id="BdBszk8y-W9T2lLDwm4O">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SrgPuZvEo6TeNwrw__9Y-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SrgPuZvEo6TeNwrw__9Y-2" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt; 9 -&amp;gt; 7 -&amp;gt; 5 -&amp;gt; 3 -&amp;gt; 1&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 1 -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SrgPuZvEo6TeNwrw__9Y-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início -&amp;gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa2" id="EqKEK3vDlCH7brd-CsNj">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="GJ8wgQWmAhddBKI-FAXy-0" />
+        <mxCell id="GJ8wgQWmAhddBKI-FAXy-1" parent="GJ8wgQWmAhddBKI-FAXy-0" />
+        <mxCell id="GJ8wgQWmAhddBKI-FAXy-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GJ8wgQWmAhddBKI-FAXy-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GJ8wgQWmAhddBKI-FAXy-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt; 9 -&amp;gt; 7 -&amp;gt; 5 -&amp;gt; 3 -&amp;gt; 1&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 1 -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="GJ8wgQWmAhddBKI-FAXy-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GJ8wgQWmAhddBKI-FAXy-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início -&amp;gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="GJ8wgQWmAhddBKI-FAXy-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_AmYIrQAq4HH9hIvR2W3-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GJ8wgQWmAhddBKI-FAXy-1">
+          <mxGeometry x="354" y="50" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_AmYIrQAq4HH9hIvR2W3-1" value="inicioA-&amp;gt;dado == inicioB-&amp;gt;dado?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="GJ8wgQWmAhddBKI-FAXy-1">
+          <mxGeometry x="354" y="65" width="276" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa3" id="FFidgdlXdnTWqZXG3v98">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0x-pptAIauKr5lKRilqO-0" />
+        <mxCell id="0x-pptAIauKr5lKRilqO-1" parent="0x-pptAIauKr5lKRilqO-0" />
+        <mxCell id="0x-pptAIauKr5lKRilqO-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0x-pptAIauKr5lKRilqO-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0x-pptAIauKr5lKRilqO-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt; 7 -&amp;gt; 5 -&amp;gt; 3 -&amp;gt; 1&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 1 -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="0x-pptAIauKr5lKRilqO-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0x-pptAIauKr5lKRilqO-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt; 9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início -&amp;gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="0x-pptAIauKr5lKRilqO-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa4" id="y1xW8n_1MXft4ylUiHuU">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="HnoDbW5Z2uOpDP0Mo3as-0" />
+        <mxCell id="HnoDbW5Z2uOpDP0Mo3as-1" parent="HnoDbW5Z2uOpDP0Mo3as-0" />
+        <mxCell id="HnoDbW5Z2uOpDP0Mo3as-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HnoDbW5Z2uOpDP0Mo3as-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HnoDbW5Z2uOpDP0Mo3as-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt; 7 -&amp;gt; 5 -&amp;gt; 3 -&amp;gt; 1&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 1 -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="HnoDbW5Z2uOpDP0Mo3as-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HnoDbW5Z2uOpDP0Mo3as-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt; 9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início -&amp;gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="HnoDbW5Z2uOpDP0Mo3as-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BG29hPNqPGxh47fhsVwV-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HnoDbW5Z2uOpDP0Mo3as-1">
+          <mxGeometry x="354" y="50" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BG29hPNqPGxh47fhsVwV-1" value="inicioA-&amp;gt;dado == inicioB-&amp;gt;dado?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="HnoDbW5Z2uOpDP0Mo3as-1">
+          <mxGeometry x="354" y="65" width="276" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa5" id="FaFx9c0KJj4fVBIU90nQ">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="IV8M7BCKRR16xzuPPZHn-0" />
+        <mxCell id="IV8M7BCKRR16xzuPPZHn-1" parent="IV8M7BCKRR16xzuPPZHn-0" />
+        <mxCell id="IV8M7BCKRR16xzuPPZHn-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IV8M7BCKRR16xzuPPZHn-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8M7BCKRR16xzuPPZHn-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt; 5 -&amp;gt; 3 -&amp;gt; 1&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 1 -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="IV8M7BCKRR16xzuPPZHn-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8M7BCKRR16xzuPPZHn-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt; 9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início -&amp;gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="IV8M7BCKRR16xzuPPZHn-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa6" id="dEvqanrzVuLz22kfVcgB">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="vqhyo7fbH6dhoKcI79KM-0" />
+        <mxCell id="vqhyo7fbH6dhoKcI79KM-1" parent="vqhyo7fbH6dhoKcI79KM-0" />
+        <mxCell id="vqhyo7fbH6dhoKcI79KM-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vqhyo7fbH6dhoKcI79KM-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vqhyo7fbH6dhoKcI79KM-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt; 5 -&amp;gt; 3 -&amp;gt; 1&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 1 -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="vqhyo7fbH6dhoKcI79KM-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vqhyo7fbH6dhoKcI79KM-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt; 9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início -&amp;gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="vqhyo7fbH6dhoKcI79KM-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kh6JqtN0zfKMF-876Y0p-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vqhyo7fbH6dhoKcI79KM-1">
+          <mxGeometry x="354" y="50" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kh6JqtN0zfKMF-876Y0p-1" value="inicioA-&amp;gt;dado == inicioB-&amp;gt;dado?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="vqhyo7fbH6dhoKcI79KM-1">
+          <mxGeometry x="354" y="65" width="276" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa7" id="rNBm8R1R1UztPh9q6QlQ">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="e8rbuKlmSIf4E2UHK4Mp-0" />
+        <mxCell id="e8rbuKlmSIf4E2UHK4Mp-1" parent="e8rbuKlmSIf4E2UHK4Mp-0" />
+        <mxCell id="e8rbuKlmSIf4E2UHK4Mp-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="e8rbuKlmSIf4E2UHK4Mp-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e8rbuKlmSIf4E2UHK4Mp-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt; 3 -&amp;gt; 1&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 1 -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="e8rbuKlmSIf4E2UHK4Mp-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e8rbuKlmSIf4E2UHK4Mp-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt; 9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início -&amp;gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="e8rbuKlmSIf4E2UHK4Mp-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa8" id="D1kpGuEMgbeZh17qHBz4">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="hYJ6iw8DJchH6mbZ8ih9-0" />
+        <mxCell id="hYJ6iw8DJchH6mbZ8ih9-1" parent="hYJ6iw8DJchH6mbZ8ih9-0" />
+        <mxCell id="hYJ6iw8DJchH6mbZ8ih9-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hYJ6iw8DJchH6mbZ8ih9-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hYJ6iw8DJchH6mbZ8ih9-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt; 3 -&amp;gt; 1&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 1 -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="hYJ6iw8DJchH6mbZ8ih9-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hYJ6iw8DJchH6mbZ8ih9-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt; 9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início -&amp;gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="hYJ6iw8DJchH6mbZ8ih9-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OHJytkQEPwcP5SZ9GqZU-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hYJ6iw8DJchH6mbZ8ih9-1">
+          <mxGeometry x="354" y="50" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHJytkQEPwcP5SZ9GqZU-1" value="inicioA-&amp;gt;dado == inicioB-&amp;gt;dado?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="hYJ6iw8DJchH6mbZ8ih9-1">
+          <mxGeometry x="354" y="65" width="276" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa9" id="Q53xE1Ljx6yMFiECQOv6">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Q_axbRxn2v1O5ZliDWrS-0" />
+        <mxCell id="Q_axbRxn2v1O5ZliDWrS-1" parent="Q_axbRxn2v1O5ZliDWrS-0" />
+        <mxCell id="Q_axbRxn2v1O5ZliDWrS-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Q_axbRxn2v1O5ZliDWrS-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_axbRxn2v1O5ZliDWrS-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt; 1&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 1 -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Q_axbRxn2v1O5ZliDWrS-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_axbRxn2v1O5ZliDWrS-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt; 9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 3&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início -&amp;gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Q_axbRxn2v1O5ZliDWrS-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa10" id="3OPa1RI5FGShI_x_ycAk">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="l-vDhlRC8rAOhH7yxRmh-0" />
+        <mxCell id="l-vDhlRC8rAOhH7yxRmh-1" parent="l-vDhlRC8rAOhH7yxRmh-0" />
+        <mxCell id="l-vDhlRC8rAOhH7yxRmh-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l-vDhlRC8rAOhH7yxRmh-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l-vDhlRC8rAOhH7yxRmh-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt; 1&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 1 -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="l-vDhlRC8rAOhH7yxRmh-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l-vDhlRC8rAOhH7yxRmh-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt; 9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 3&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início -&amp;gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="l-vDhlRC8rAOhH7yxRmh-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7kAPYfbfZ_ztM3Qs8T1J-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l-vDhlRC8rAOhH7yxRmh-1">
+          <mxGeometry x="354" y="50" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7kAPYfbfZ_ztM3Qs8T1J-1" value="inicioA-&amp;gt;dado == inicioB-&amp;gt;dado?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="l-vDhlRC8rAOhH7yxRmh-1">
+          <mxGeometry x="354" y="65" width="276" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa11" id="gcShJ7Kn78ge0J6lplnX">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="_slSHtCwuWBkes2WabCj-0" />
+        <mxCell id="_slSHtCwuWBkes2WabCj-1" parent="_slSHtCwuWBkes2WabCj-0" />
+        <mxCell id="_slSHtCwuWBkes2WabCj-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_slSHtCwuWBkes2WabCj-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_slSHtCwuWBkes2WabCj-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 1 -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="_slSHtCwuWBkes2WabCj-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_slSHtCwuWBkes2WabCj-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt; 9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 3&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="_slSHtCwuWBkes2WabCj-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa12" id="R8R_ICM4dljNQo1M0AGk">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="A3Zj34FU-iwYx8LejTj7-0" />
+        <mxCell id="A3Zj34FU-iwYx8LejTj7-1" parent="A3Zj34FU-iwYx8LejTj7-0" />
+        <mxCell id="A3Zj34FU-iwYx8LejTj7-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="A3Zj34FU-iwYx8LejTj7-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A3Zj34FU-iwYx8LejTj7-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="A3Zj34FU-iwYx8LejTj7-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A3Zj34FU-iwYx8LejTj7-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt; 9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 3&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="A3Zj34FU-iwYx8LejTj7-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa13" id="KnAyTtx9U01UxXHjUGVB">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ubdAvsXbdhjoUcROi9s9-0" />
+        <mxCell id="ubdAvsXbdhjoUcROi9s9-1" parent="ubdAvsXbdhjoUcROi9s9-0" />
+        <mxCell id="ubdAvsXbdhjoUcROi9s9-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ubdAvsXbdhjoUcROi9s9-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ubdAvsXbdhjoUcROi9s9-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ubdAvsXbdhjoUcROi9s9-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ubdAvsXbdhjoUcROi9s9-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt; 9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 3&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ubdAvsXbdhjoUcROi9s9-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KdcqsP7nUUlADxBiiyj9-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ubdAvsXbdhjoUcROi9s9-1">
+          <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KdcqsP7nUUlADxBiiyj9-1" value="COPY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ubdAvsXbdhjoUcROi9s9-1">
+          <mxGeometry x="365" y="125" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa14" id="YOBrUqQiNhnqDCpI4b3O">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="o7CVL3a1EI1Mwu5gRKdb-0" />
+        <mxCell id="o7CVL3a1EI1Mwu5gRKdb-1" parent="o7CVL3a1EI1Mwu5gRKdb-0" />
+        <mxCell id="o7CVL3a1EI1Mwu5gRKdb-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="o7CVL3a1EI1Mwu5gRKdb-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o7CVL3a1EI1Mwu5gRKdb-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 3&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="o7CVL3a1EI1Mwu5gRKdb-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o7CVL3a1EI1Mwu5gRKdb-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="o7CVL3a1EI1Mwu5gRKdb-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa15" id="lk3EHj_JEdhhQzIL-2kI">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="RMC6aw91WLyRITXMiQAR-0" />
+        <mxCell id="RMC6aw91WLyRITXMiQAR-1" parent="RMC6aw91WLyRITXMiQAR-0" />
+        <mxCell id="RMC6aw91WLyRITXMiQAR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RMC6aw91WLyRITXMiQAR-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RMC6aw91WLyRITXMiQAR-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 3&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="RMC6aw91WLyRITXMiQAR-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RMC6aw91WLyRITXMiQAR-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="RMC6aw91WLyRITXMiQAR-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GbBQzmxTSKJJWMWWVsS_-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RMC6aw91WLyRITXMiQAR-1">
+          <mxGeometry x="354" y="50" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GbBQzmxTSKJJWMWWVsS_-1" value="inicioA-&amp;gt;dado == inicioB-&amp;gt;dado?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="RMC6aw91WLyRITXMiQAR-1">
+          <mxGeometry x="354" y="65" width="276" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa16" id="rTbopNZ23-pQ74x9awDQ">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="06PoDfBVfx_98d2Mpcxm-0" />
+        <mxCell id="06PoDfBVfx_98d2Mpcxm-1" parent="06PoDfBVfx_98d2Mpcxm-0" />
+        <mxCell id="06PoDfBVfx_98d2Mpcxm-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="06PoDfBVfx_98d2Mpcxm-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="06PoDfBVfx_98d2Mpcxm-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 3&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="06PoDfBVfx_98d2Mpcxm-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="06PoDfBVfx_98d2Mpcxm-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="06PoDfBVfx_98d2Mpcxm-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa17" id="tMsIzKI1uDDpHIWmQasy">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="dmG6gRcRkCPI9QQni48j-0" />
+        <mxCell id="dmG6gRcRkCPI9QQni48j-1" parent="dmG6gRcRkCPI9QQni48j-0" />
+        <mxCell id="dmG6gRcRkCPI9QQni48j-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dmG6gRcRkCPI9QQni48j-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dmG6gRcRkCPI9QQni48j-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 3&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="dmG6gRcRkCPI9QQni48j-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dmG6gRcRkCPI9QQni48j-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="dmG6gRcRkCPI9QQni48j-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cvky9ADvwM4oQneuG3nb-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dmG6gRcRkCPI9QQni48j-1">
+          <mxGeometry x="354" y="50" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cvky9ADvwM4oQneuG3nb-1" value="inicioA-&amp;gt;dado == inicioB-&amp;gt;dado?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="dmG6gRcRkCPI9QQni48j-1">
+          <mxGeometry x="354" y="65" width="276" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa18" id="wWtuzJICgS5eOGDUb1Qd">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="c5E_-tkqBVhGzRs2dILK-0" />
+        <mxCell id="c5E_-tkqBVhGzRs2dILK-1" parent="c5E_-tkqBVhGzRs2dILK-0" />
+        <mxCell id="c5E_-tkqBVhGzRs2dILK-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="c5E_-tkqBVhGzRs2dILK-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c5E_-tkqBVhGzRs2dILK-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 3&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="c5E_-tkqBVhGzRs2dILK-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c5E_-tkqBVhGzRs2dILK-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="c5E_-tkqBVhGzRs2dILK-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa19" id="IuVY8zdmLBz7K5vpGz23">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="7uK47tbzlU-5SM6SisJu-0" />
+        <mxCell id="7uK47tbzlU-5SM6SisJu-1" parent="7uK47tbzlU-5SM6SisJu-0" />
+        <mxCell id="7uK47tbzlU-5SM6SisJu-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7uK47tbzlU-5SM6SisJu-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7uK47tbzlU-5SM6SisJu-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 3&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="7uK47tbzlU-5SM6SisJu-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7uK47tbzlU-5SM6SisJu-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="7uK47tbzlU-5SM6SisJu-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TtOjjOPxWqvZjZkDjS6s-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7uK47tbzlU-5SM6SisJu-1">
+          <mxGeometry x="354" y="50" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TtOjjOPxWqvZjZkDjS6s-1" value="inicioA-&amp;gt;dado == inicioB-&amp;gt;dado?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="7uK47tbzlU-5SM6SisJu-1">
+          <mxGeometry x="354" y="65" width="276" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa20" id="hBaHVG70PotCq84DCako">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="rEqoOus6zspieKAsCJX9-0" />
+        <mxCell id="rEqoOus6zspieKAsCJX9-1" parent="rEqoOus6zspieKAsCJX9-0" />
+        <mxCell id="rEqoOus6zspieKAsCJX9-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rEqoOus6zspieKAsCJX9-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rEqoOus6zspieKAsCJX9-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 3&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="rEqoOus6zspieKAsCJX9-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rEqoOus6zspieKAsCJX9-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="rEqoOus6zspieKAsCJX9-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa21" id="EWgvxqZ76F15HE96iE65">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="n7yTNzLVwjm9pYcRo3YA-0" />
+        <mxCell id="n7yTNzLVwjm9pYcRo3YA-1" parent="n7yTNzLVwjm9pYcRo3YA-0" />
+        <mxCell id="n7yTNzLVwjm9pYcRo3YA-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n7yTNzLVwjm9pYcRo3YA-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n7yTNzLVwjm9pYcRo3YA-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 3&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="n7yTNzLVwjm9pYcRo3YA-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n7yTNzLVwjm9pYcRo3YA-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="n7yTNzLVwjm9pYcRo3YA-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UZS16ymcwF2o0LnNgobs-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n7yTNzLVwjm9pYcRo3YA-1">
+          <mxGeometry x="354" y="50" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UZS16ymcwF2o0LnNgobs-1" value="inicioA-&amp;gt;dado == inicioB-&amp;gt;dado?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="n7yTNzLVwjm9pYcRo3YA-1">
+          <mxGeometry x="354" y="65" width="276" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa22" id="CcUYFBvd5m2JD31ZAv4i">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="jwYd8FsY32dBVBdJx36K-0" />
+        <mxCell id="jwYd8FsY32dBVBdJx36K-1" parent="jwYd8FsY32dBVBdJx36K-0" />
+        <mxCell id="jwYd8FsY32dBVBdJx36K-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jwYd8FsY32dBVBdJx36K-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jwYd8FsY32dBVBdJx36K-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 2 -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="jwYd8FsY32dBVBdJx36K-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jwYd8FsY32dBVBdJx36K-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5 -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="jwYd8FsY32dBVBdJx36K-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa23" id="WIYo26dAIGfzE3_W4ZLs">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="J9fV0G3-TBcTdBstM91w-0" />
+        <mxCell id="J9fV0G3-TBcTdBstM91w-1" parent="J9fV0G3-TBcTdBstM91w-0" />
+        <mxCell id="J9fV0G3-TBcTdBstM91w-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="J9fV0G3-TBcTdBstM91w-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J9fV0G3-TBcTdBstM91w-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="J9fV0G3-TBcTdBstM91w-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9fV0G3-TBcTdBstM91w-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5 -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="J9fV0G3-TBcTdBstM91w-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa24" id="1qp5YlepE-WiSBKHjsqA">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="lMZ-REpI9m5uvY1AvhG1-0" />
+        <mxCell id="lMZ-REpI9m5uvY1AvhG1-1" parent="lMZ-REpI9m5uvY1AvhG1-0" />
+        <mxCell id="lMZ-REpI9m5uvY1AvhG1-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lMZ-REpI9m5uvY1AvhG1-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lMZ-REpI9m5uvY1AvhG1-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="lMZ-REpI9m5uvY1AvhG1-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lMZ-REpI9m5uvY1AvhG1-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5 -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="lMZ-REpI9m5uvY1AvhG1-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8frp1zxTJwvpE9NMnJoW-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lMZ-REpI9m5uvY1AvhG1-1">
+          <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8frp1zxTJwvpE9NMnJoW-1" value="COPY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="lMZ-REpI9m5uvY1AvhG1-1">
+          <mxGeometry x="365" y="125" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa25" id="pdTs8waKosxg3znlrU3z">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="JBLmX208QQ43OmrGGqg_-0" />
+        <mxCell id="JBLmX208QQ43OmrGGqg_-1" parent="JBLmX208QQ43OmrGGqg_-0" />
+        <mxCell id="JBLmX208QQ43OmrGGqg_-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JBLmX208QQ43OmrGGqg_-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JBLmX208QQ43OmrGGqg_-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5 -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="JBLmX208QQ43OmrGGqg_-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JBLmX208QQ43OmrGGqg_-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="JBLmX208QQ43OmrGGqg_-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa26" id="x3nkz8scmLXwOhIR-bFC">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="1lq7GwQmX4D0o3fDLaiT-0" />
+        <mxCell id="1lq7GwQmX4D0o3fDLaiT-1" parent="1lq7GwQmX4D0o3fDLaiT-0" />
+        <mxCell id="1lq7GwQmX4D0o3fDLaiT-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1lq7GwQmX4D0o3fDLaiT-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1lq7GwQmX4D0o3fDLaiT-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5 -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1lq7GwQmX4D0o3fDLaiT-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lq7GwQmX4D0o3fDLaiT-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1lq7GwQmX4D0o3fDLaiT-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TqIbLlCiQgyjTNJMhT-1-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1lq7GwQmX4D0o3fDLaiT-1">
+          <mxGeometry x="354" y="50" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TqIbLlCiQgyjTNJMhT-1-1" value="inicioA-&amp;gt;dado == inicioB-&amp;gt;dado?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1lq7GwQmX4D0o3fDLaiT-1">
+          <mxGeometry x="354" y="65" width="276" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa27" id="5YRjdglEhvVifRNxaldz">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="lg5qMi3-mjtdV9Fz0Eer-0" />
+        <mxCell id="lg5qMi3-mjtdV9Fz0Eer-1" parent="lg5qMi3-mjtdV9Fz0Eer-0" />
+        <mxCell id="lg5qMi3-mjtdV9Fz0Eer-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lg5qMi3-mjtdV9Fz0Eer-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lg5qMi3-mjtdV9Fz0Eer-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5 -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="lg5qMi3-mjtdV9Fz0Eer-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lg5qMi3-mjtdV9Fz0Eer-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="lg5qMi3-mjtdV9Fz0Eer-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa28" id="jroY5W2krXd7-8Dmd_O6">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="eJrHLJwbW3VONO88gp1--0" />
+        <mxCell id="eJrHLJwbW3VONO88gp1--1" parent="eJrHLJwbW3VONO88gp1--0" />
+        <mxCell id="eJrHLJwbW3VONO88gp1--2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eJrHLJwbW3VONO88gp1--1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eJrHLJwbW3VONO88gp1--3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5 -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="eJrHLJwbW3VONO88gp1--1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJrHLJwbW3VONO88gp1--4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="eJrHLJwbW3VONO88gp1--1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Qj6md2cD5qeLV7unhH-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eJrHLJwbW3VONO88gp1--1">
+          <mxGeometry x="364" y="60" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Qj6md2cD5qeLV7unhH-1" value="inicioA-&amp;gt;dado == inicioB-&amp;gt;dado?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="eJrHLJwbW3VONO88gp1--1">
+          <mxGeometry x="364" y="75" width="276" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa29" id="JaRlrOARazAZ7vA4dOh4">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="8thbZPBDt9UxP1xTSllD-0" />
+        <mxCell id="8thbZPBDt9UxP1xTSllD-1" parent="8thbZPBDt9UxP1xTSllD-0" />
+        <mxCell id="8thbZPBDt9UxP1xTSllD-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8thbZPBDt9UxP1xTSllD-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8thbZPBDt9UxP1xTSllD-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5 -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="8thbZPBDt9UxP1xTSllD-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8thbZPBDt9UxP1xTSllD-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;7&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="8thbZPBDt9UxP1xTSllD-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa30" id="rd2mJvS2DJgnzF0kSeh6">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="lRK-FVBUQvR5sUirJluu-0" />
+        <mxCell id="lRK-FVBUQvR5sUirJluu-1" parent="lRK-FVBUQvR5sUirJluu-0" />
+        <mxCell id="lRK-FVBUQvR5sUirJluu-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lRK-FVBUQvR5sUirJluu-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lRK-FVBUQvR5sUirJluu-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5 -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="lRK-FVBUQvR5sUirJluu-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lRK-FVBUQvR5sUirJluu-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;7&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="lRK-FVBUQvR5sUirJluu-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U6quxAhLjrgKT98e9bSb-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lRK-FVBUQvR5sUirJluu-1">
+          <mxGeometry x="364" y="60" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6quxAhLjrgKT98e9bSb-1" value="inicioA-&amp;gt;dado == inicioB-&amp;gt;dado?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="lRK-FVBUQvR5sUirJluu-1">
+          <mxGeometry x="364" y="75" width="276" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa31" id="5p1-yjPew7pOjY_2WerS">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="I7RcGh9bcTmsK4h43YiJ-0" />
+        <mxCell id="I7RcGh9bcTmsK4h43YiJ-1" parent="I7RcGh9bcTmsK4h43YiJ-0" />
+        <mxCell id="I7RcGh9bcTmsK4h43YiJ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I7RcGh9bcTmsK4h43YiJ-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I7RcGh9bcTmsK4h43YiJ-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="I7RcGh9bcTmsK4h43YiJ-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I7RcGh9bcTmsK4h43YiJ-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="I7RcGh9bcTmsK4h43YiJ-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa32" id="PLn6Bv9eM-lmbJRtuX7I">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DnirRT7-7CYtsfnAVS-6-0" />
+        <mxCell id="DnirRT7-7CYtsfnAVS-6-1" parent="DnirRT7-7CYtsfnAVS-6-0" />
+        <mxCell id="DnirRT7-7CYtsfnAVS-6-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DnirRT7-7CYtsfnAVS-6-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DnirRT7-7CYtsfnAVS-6-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="DnirRT7-7CYtsfnAVS-6-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnirRT7-7CYtsfnAVS-6-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="DnirRT7-7CYtsfnAVS-6-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_A2xwcxbDmzDJ6DRKrTS-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DnirRT7-7CYtsfnAVS-6-1">
+          <mxGeometry x="364" y="60" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_A2xwcxbDmzDJ6DRKrTS-1" value="inicioA-&amp;gt;dado == inicioB-&amp;gt;dado?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="DnirRT7-7CYtsfnAVS-6-1">
+          <mxGeometry x="364" y="75" width="276" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa33" id="K1mLX9vXm5dI1QASIWys">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="GAZd5MdKiC3Zsq6ISEeD-0" />
+        <mxCell id="GAZd5MdKiC3Zsq6ISEeD-1" parent="GAZd5MdKiC3Zsq6ISEeD-0" />
+        <mxCell id="GAZd5MdKiC3Zsq6ISEeD-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GAZd5MdKiC3Zsq6ISEeD-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GAZd5MdKiC3Zsq6ISEeD-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="GAZd5MdKiC3Zsq6ISEeD-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAZd5MdKiC3Zsq6ISEeD-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5 -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="GAZd5MdKiC3Zsq6ISEeD-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa34" id="VXQPuj8kzY8iJA9DjYuJ">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="isU2aRnfZhEpbNpOkupa-0" />
+        <mxCell id="isU2aRnfZhEpbNpOkupa-1" parent="isU2aRnfZhEpbNpOkupa-0" />
+        <mxCell id="isU2aRnfZhEpbNpOkupa-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="isU2aRnfZhEpbNpOkupa-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="isU2aRnfZhEpbNpOkupa-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="isU2aRnfZhEpbNpOkupa-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="isU2aRnfZhEpbNpOkupa-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5 -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="isU2aRnfZhEpbNpOkupa-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa35" id="E40jGRKil4kvJUOejc9C">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="XoD3hCZwigBh9tBoGq64-0" />
+        <mxCell id="XoD3hCZwigBh9tBoGq64-1" parent="XoD3hCZwigBh9tBoGq64-0" />
+        <mxCell id="XoD3hCZwigBh9tBoGq64-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XoD3hCZwigBh9tBoGq64-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XoD3hCZwigBh9tBoGq64-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="XoD3hCZwigBh9tBoGq64-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XoD3hCZwigBh9tBoGq64-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5 -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="XoD3hCZwigBh9tBoGq64-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ijm6R6fHtvibDELUATtr-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XoD3hCZwigBh9tBoGq64-1">
+          <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ijm6R6fHtvibDELUATtr-1" value="COPY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="XoD3hCZwigBh9tBoGq64-1">
+          <mxGeometry x="365" y="125" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa36" id="QpPlZopLcM2D-VWQH1bt">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DrHOA5IarY-GtnJ9Nd48-0" />
+        <mxCell id="DrHOA5IarY-GtnJ9Nd48-1" parent="DrHOA5IarY-GtnJ9Nd48-0" />
+        <mxCell id="DrHOA5IarY-GtnJ9Nd48-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DrHOA5IarY-GtnJ9Nd48-1">
+          <mxGeometry x="40" y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DrHOA5IarY-GtnJ9Nd48-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;A: Início&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;7&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 5 -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;sans-serif, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;B: Início -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="DrHOA5IarY-GtnJ9Nd48-1">
+          <mxGeometry x="40" y="65" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DrHOA5IarY-GtnJ9Nd48-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FilaAux: Início -&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FilaRes: Início&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt; 1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, sans-serif;&quot;&gt;-&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="DrHOA5IarY-GtnJ9Nd48-1">
+          <mxGeometry x="40" y="130" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

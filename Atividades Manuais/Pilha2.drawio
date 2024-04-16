@@ -1,0 +1,617 @@
+<mxfile host="app.diagrams.net" modified="2024-03-19T14:40:51.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ekuUzL3ZhpXYN-xlHHQ9" version="24.0.7" type="device" pages="33">
+  <diagram name="Etapa1" id="IX2jaIqkl_7WoT0qoXVs">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="pEfsBENEGaX-MP9_u5C2-0" />
+        <mxCell id="pEfsBENEGaX-MP9_u5C2-1" parent="pEfsBENEGaX-MP9_u5C2-0" />
+        <mxCell id="pEfsBENEGaX-MP9_u5C2-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pEfsBENEGaX-MP9_u5C2-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pEfsBENEGaX-MP9_u5C2-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo -&amp;gt; 8 -&amp;gt; 2 -&amp;gt; 9 -&amp;gt; 1&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="pEfsBENEGaX-MP9_u5C2-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pEfsBENEGaX-MP9_u5C2-4" value="Var1:&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante:&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="pEfsBENEGaX-MP9_u5C2-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa2" id="gwEnzHlu-QiWoNnUKPBi">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="LlUHgbHcvrT1PEGBbPpl-0" />
+        <mxCell id="LlUHgbHcvrT1PEGBbPpl-1" parent="LlUHgbHcvrT1PEGBbPpl-0" />
+        <mxCell id="LlUHgbHcvrT1PEGBbPpl-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LlUHgbHcvrT1PEGBbPpl-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LlUHgbHcvrT1PEGBbPpl-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo -&amp;gt; 2 -&amp;gt; 9 -&amp;gt; 1&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="LlUHgbHcvrT1PEGBbPpl-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LlUHgbHcvrT1PEGBbPpl-4" value="Var1:&amp;nbsp;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;8&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante:&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="LlUHgbHcvrT1PEGBbPpl-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa3" id="XreugKHdFyGPismfWDHb">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="NeTZTWCXpTe_fiXRoCY1-0" />
+        <mxCell id="NeTZTWCXpTe_fiXRoCY1-1" parent="NeTZTWCXpTe_fiXRoCY1-0" />
+        <mxCell id="NeTZTWCXpTe_fiXRoCY1-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NeTZTWCXpTe_fiXRoCY1-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NeTZTWCXpTe_fiXRoCY1-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo -&amp;gt; 9 -&amp;gt; 1&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="NeTZTWCXpTe_fiXRoCY1-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NeTZTWCXpTe_fiXRoCY1-4" value="Var1: 8&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2: 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante:&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="NeTZTWCXpTe_fiXRoCY1-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa4" id="0qopdEHQYNqcA306n9Uw">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="niP0qM57bDN9beMzXS9w-0" />
+        <mxCell id="niP0qM57bDN9beMzXS9w-1" parent="niP0qM57bDN9beMzXS9w-0" />
+        <mxCell id="niP0qM57bDN9beMzXS9w-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="niP0qM57bDN9beMzXS9w-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="niP0qM57bDN9beMzXS9w-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo -&amp;gt; 9 -&amp;gt; 1&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="niP0qM57bDN9beMzXS9w-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="niP0qM57bDN9beMzXS9w-4" value="Var1: 8&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2: 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante:&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="niP0qM57bDN9beMzXS9w-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="e3gbGmTlpw2pC2mILCnP-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="niP0qM57bDN9beMzXS9w-1">
+          <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e3gbGmTlpw2pC2mILCnP-1" value="Var1 &amp;gt; Var2?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="niP0qM57bDN9beMzXS9w-1">
+          <mxGeometry x="335" y="145" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa5" id="WjGtMXKKALPoozvFkEhp">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="SRAb0JPke8ktV7RjOEU4-0" />
+        <mxCell id="SRAb0JPke8ktV7RjOEU4-1" parent="SRAb0JPke8ktV7RjOEU4-0" />
+        <mxCell id="SRAb0JPke8ktV7RjOEU4-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SRAb0JPke8ktV7RjOEU4-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SRAb0JPke8ktV7RjOEU4-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo -&amp;gt; 9 -&amp;gt; 1&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="SRAb0JPke8ktV7RjOEU4-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SRAb0JPke8ktV7RjOEU4-4" value="Var1:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2: 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante:&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="SRAb0JPke8ktV7RjOEU4-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa6" id="inKeoFLY5NlWgVRCs3ks">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="T32cTNW_zrsVHCfbiZ8u-0" />
+        <mxCell id="T32cTNW_zrsVHCfbiZ8u-1" parent="T32cTNW_zrsVHCfbiZ8u-0" />
+        <mxCell id="T32cTNW_zrsVHCfbiZ8u-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="T32cTNW_zrsVHCfbiZ8u-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T32cTNW_zrsVHCfbiZ8u-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo -&amp;gt; 1&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="T32cTNW_zrsVHCfbiZ8u-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T32cTNW_zrsVHCfbiZ8u-4" value="Var1: 9&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2: 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante:&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="T32cTNW_zrsVHCfbiZ8u-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa7" id="1zBnSKFmmaRi0Oaxz0hC">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="zqkexAwW7eKP-2GYUOmE-0" />
+        <mxCell id="zqkexAwW7eKP-2GYUOmE-1" parent="zqkexAwW7eKP-2GYUOmE-0" />
+        <mxCell id="zqkexAwW7eKP-2GYUOmE-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zqkexAwW7eKP-2GYUOmE-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zqkexAwW7eKP-2GYUOmE-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo -&amp;gt; 1&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="zqkexAwW7eKP-2GYUOmE-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zqkexAwW7eKP-2GYUOmE-4" value="Var1: 9&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2: 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante:&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="zqkexAwW7eKP-2GYUOmE-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="2YCZA2GQThcMtMC_22n4-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zqkexAwW7eKP-2GYUOmE-1">
+          <mxGeometry x="294" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YCZA2GQThcMtMC_22n4-1" value="Var1 &amp;gt; Var2?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="zqkexAwW7eKP-2GYUOmE-1">
+          <mxGeometry x="299" y="145" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa8" id="3-QXvF-dXOHOdzyjinwh">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DB6_adCkQkbKbvJYNgoU-0" />
+        <mxCell id="DB6_adCkQkbKbvJYNgoU-1" parent="DB6_adCkQkbKbvJYNgoU-0" />
+        <mxCell id="DB6_adCkQkbKbvJYNgoU-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DB6_adCkQkbKbvJYNgoU-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DB6_adCkQkbKbvJYNgoU-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo -&amp;gt; 1&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="DB6_adCkQkbKbvJYNgoU-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DB6_adCkQkbKbvJYNgoU-4" value="Var1:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2: 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 9 -&amp;gt; 8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante:&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="DB6_adCkQkbKbvJYNgoU-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa9" id="tEwtMXIg469dIIXF7g0E">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="uUy_R0dLoXBQaGXdBywM-0" />
+        <mxCell id="uUy_R0dLoXBQaGXdBywM-1" parent="uUy_R0dLoXBQaGXdBywM-0" />
+        <mxCell id="uUy_R0dLoXBQaGXdBywM-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uUy_R0dLoXBQaGXdBywM-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uUy_R0dLoXBQaGXdBywM-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="uUy_R0dLoXBQaGXdBywM-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUy_R0dLoXBQaGXdBywM-4" value="Var1: 1&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2: 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 9 -&amp;gt; 8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante:&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="uUy_R0dLoXBQaGXdBywM-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa10" id="HOLqUqAXDmW0EPA_Oip-">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Ql7_RfOco_TOK4cjKiSS-0" />
+        <mxCell id="Ql7_RfOco_TOK4cjKiSS-1" parent="Ql7_RfOco_TOK4cjKiSS-0" />
+        <mxCell id="Ql7_RfOco_TOK4cjKiSS-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ql7_RfOco_TOK4cjKiSS-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql7_RfOco_TOK4cjKiSS-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Ql7_RfOco_TOK4cjKiSS-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql7_RfOco_TOK4cjKiSS-4" value="Var1: 1&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2: 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 9 -&amp;gt; 8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante:&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Ql7_RfOco_TOK4cjKiSS-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="sqDwuTzNyAnz6426W5si-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ql7_RfOco_TOK4cjKiSS-1">
+          <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sqDwuTzNyAnz6426W5si-1" value="Var1 &amp;gt; Var2?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Ql7_RfOco_TOK4cjKiSS-1">
+          <mxGeometry x="335" y="145" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa11" id="Ly6F7ES7G4FOvd9MKG8t">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DrKR0VaU_F0zBXHZx-Sf-0" />
+        <mxCell id="DrKR0VaU_F0zBXHZx-Sf-1" parent="DrKR0VaU_F0zBXHZx-Sf-0" />
+        <mxCell id="DrKR0VaU_F0zBXHZx-Sf-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DrKR0VaU_F0zBXHZx-Sf-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DrKR0VaU_F0zBXHZx-Sf-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="DrKR0VaU_F0zBXHZx-Sf-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DrKR0VaU_F0zBXHZx-Sf-4" value="Var1: 1&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 2 -&amp;gt; 9 -&amp;gt; 8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante:&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="DrKR0VaU_F0zBXHZx-Sf-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa12" id="iskgPf7PBlVZBGbr_50m">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="JnPxxoVrTT9r2Dr3CfbN-0" />
+        <mxCell id="JnPxxoVrTT9r2Dr3CfbN-1" parent="JnPxxoVrTT9r2Dr3CfbN-0" />
+        <mxCell id="JnPxxoVrTT9r2Dr3CfbN-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JnPxxoVrTT9r2Dr3CfbN-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JnPxxoVrTT9r2Dr3CfbN-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="JnPxxoVrTT9r2Dr3CfbN-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JnPxxoVrTT9r2Dr3CfbN-4" value="Var1:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 2 -&amp;gt; 9 -&amp;gt; 8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="JnPxxoVrTT9r2Dr3CfbN-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa13" id="eVy9WnuTWAtjw7g90JOS">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="6kgdGuX9ZYUahrJQR8Ou-0" />
+        <mxCell id="6kgdGuX9ZYUahrJQR8Ou-1" parent="6kgdGuX9ZYUahrJQR8Ou-0" />
+        <mxCell id="6kgdGuX9ZYUahrJQR8Ou-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6kgdGuX9ZYUahrJQR8Ou-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6kgdGuX9ZYUahrJQR8Ou-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="6kgdGuX9ZYUahrJQR8Ou-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6kgdGuX9ZYUahrJQR8Ou-4" value="Var1:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 2 -&amp;gt; 9 -&amp;gt; 8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="6kgdGuX9ZYUahrJQR8Ou-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="BPYUu9hMpY5tXC08zCRD-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6kgdGuX9ZYUahrJQR8Ou-1">
+          <mxGeometry x="294" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BPYUu9hMpY5tXC08zCRD-1" value="COPY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="6kgdGuX9ZYUahrJQR8Ou-1">
+          <mxGeometry x="299" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa14" id="TEobpWGnZPhlBzSc-_j2">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="u-c4Bc1aOPrYINMqmRTI-0" />
+        <mxCell id="u-c4Bc1aOPrYINMqmRTI-1" parent="u-c4Bc1aOPrYINMqmRTI-0" />
+        <mxCell id="u-c4Bc1aOPrYINMqmRTI-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u-c4Bc1aOPrYINMqmRTI-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u-c4Bc1aOPrYINMqmRTI-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;-&amp;gt; 2 -&amp;gt; 9 -&amp;gt; 8" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="u-c4Bc1aOPrYINMqmRTI-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u-c4Bc1aOPrYINMqmRTI-4" value="Var1:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="u-c4Bc1aOPrYINMqmRTI-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa15" id="o0MPN9K71aT0rM4xrE6v">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="KebBxJ5CYBacyjVT12qs-0" />
+        <mxCell id="KebBxJ5CYBacyjVT12qs-1" parent="KebBxJ5CYBacyjVT12qs-0" />
+        <mxCell id="KebBxJ5CYBacyjVT12qs-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KebBxJ5CYBacyjVT12qs-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KebBxJ5CYBacyjVT12qs-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;-&amp;gt; 9 -&amp;gt; 8" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="KebBxJ5CYBacyjVT12qs-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KebBxJ5CYBacyjVT12qs-4" value="Var1: 2&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="KebBxJ5CYBacyjVT12qs-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa16" id="QooYivxBtg2vbdLF7YoR">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="zuGuG6pmiKqwM4i1b9u0-0" />
+        <mxCell id="zuGuG6pmiKqwM4i1b9u0-1" parent="zuGuG6pmiKqwM4i1b9u0-0" />
+        <mxCell id="zuGuG6pmiKqwM4i1b9u0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zuGuG6pmiKqwM4i1b9u0-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zuGuG6pmiKqwM4i1b9u0-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;-&amp;gt; 8" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="zuGuG6pmiKqwM4i1b9u0-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zuGuG6pmiKqwM4i1b9u0-4" value="Var1: 2&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2: 9&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="zuGuG6pmiKqwM4i1b9u0-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa17" id="dLwjdWr9AME0RZ4HsBqe">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="VzoKcNuU17EW2_lwNYze-0" />
+        <mxCell id="VzoKcNuU17EW2_lwNYze-1" parent="VzoKcNuU17EW2_lwNYze-0" />
+        <mxCell id="VzoKcNuU17EW2_lwNYze-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VzoKcNuU17EW2_lwNYze-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VzoKcNuU17EW2_lwNYze-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;-&amp;gt; 8" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="VzoKcNuU17EW2_lwNYze-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzoKcNuU17EW2_lwNYze-4" value="Var1: 2&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2: 9&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="VzoKcNuU17EW2_lwNYze-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="sk79xcOgVoIryq0TuBCn-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VzoKcNuU17EW2_lwNYze-1">
+          <mxGeometry x="294" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sk79xcOgVoIryq0TuBCn-1" value="Var1 &amp;gt; Var2?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="VzoKcNuU17EW2_lwNYze-1">
+          <mxGeometry x="299" y="145" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa18" id="KFgFEdo6d-kEQeEa1UcE">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="wmeLd8HW-5XIN7g4w9Nn-0" />
+        <mxCell id="wmeLd8HW-5XIN7g4w9Nn-1" parent="wmeLd8HW-5XIN7g4w9Nn-0" />
+        <mxCell id="wmeLd8HW-5XIN7g4w9Nn-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wmeLd8HW-5XIN7g4w9Nn-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wmeLd8HW-5XIN7g4w9Nn-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;-&amp;gt; 8" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="wmeLd8HW-5XIN7g4w9Nn-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wmeLd8HW-5XIN7g4w9Nn-4" value="Var1: 2&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 9&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="wmeLd8HW-5XIN7g4w9Nn-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa19" id="_1B7ybZIL3Pubj55t27F">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="mjFQb9x7Tv-BQcElcSUP-0" />
+        <mxCell id="mjFQb9x7Tv-BQcElcSUP-1" parent="mjFQb9x7Tv-BQcElcSUP-0" />
+        <mxCell id="mjFQb9x7Tv-BQcElcSUP-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mjFQb9x7Tv-BQcElcSUP-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mjFQb9x7Tv-BQcElcSUP-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="mjFQb9x7Tv-BQcElcSUP-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mjFQb9x7Tv-BQcElcSUP-4" value="Var1: 2&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2: 8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 9&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="mjFQb9x7Tv-BQcElcSUP-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa20" id="LEqcmzsJ3s2s1IX36EkL">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="49T1exMKpvaMPO9D5Jpn-0" />
+        <mxCell id="49T1exMKpvaMPO9D5Jpn-1" parent="49T1exMKpvaMPO9D5Jpn-0" />
+        <mxCell id="49T1exMKpvaMPO9D5Jpn-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="49T1exMKpvaMPO9D5Jpn-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="49T1exMKpvaMPO9D5Jpn-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="49T1exMKpvaMPO9D5Jpn-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="49T1exMKpvaMPO9D5Jpn-4" value="Var1: 2&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2: 8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 9&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="49T1exMKpvaMPO9D5Jpn-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5PpeuUnkMBKwZ2Xj2MTA-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="49T1exMKpvaMPO9D5Jpn-1">
+          <mxGeometry x="294" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PpeuUnkMBKwZ2Xj2MTA-1" value="Var1 &amp;gt; Var2?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="49T1exMKpvaMPO9D5Jpn-1">
+          <mxGeometry x="299" y="145" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa21" id="B8p6ut3m9GSQIPnoMVgE">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="3JFjumU8SMh0ZOPssNfX-0" />
+        <mxCell id="3JFjumU8SMh0ZOPssNfX-1" parent="3JFjumU8SMh0ZOPssNfX-0" />
+        <mxCell id="3JFjumU8SMh0ZOPssNfX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3JFjumU8SMh0ZOPssNfX-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3JFjumU8SMh0ZOPssNfX-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="3JFjumU8SMh0ZOPssNfX-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JFjumU8SMh0ZOPssNfX-4" value="Var1: 2&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 8 -&amp;gt; 9&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="3JFjumU8SMh0ZOPssNfX-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa22" id="R2IQ6AsCBC7vFKkSPqvZ">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="U9brae-yFQ2S1MtDkcpO-0" />
+        <mxCell id="U9brae-yFQ2S1MtDkcpO-1" parent="U9brae-yFQ2S1MtDkcpO-0" />
+        <mxCell id="U9brae-yFQ2S1MtDkcpO-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U9brae-yFQ2S1MtDkcpO-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U9brae-yFQ2S1MtDkcpO-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="U9brae-yFQ2S1MtDkcpO-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U9brae-yFQ2S1MtDkcpO-4" value="Var1:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 8 -&amp;gt; 9&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 2 -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="U9brae-yFQ2S1MtDkcpO-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa23" id="KkpOLlHPUZDUjuim_UUV">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="fuXsbmdL7n3jBgrKt0qP-0" />
+        <mxCell id="fuXsbmdL7n3jBgrKt0qP-1" parent="fuXsbmdL7n3jBgrKt0qP-0" />
+        <mxCell id="fuXsbmdL7n3jBgrKt0qP-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="fuXsbmdL7n3jBgrKt0qP-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fuXsbmdL7n3jBgrKt0qP-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="fuXsbmdL7n3jBgrKt0qP-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fuXsbmdL7n3jBgrKt0qP-4" value="Var1:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 8 -&amp;gt; 9&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 2 -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="fuXsbmdL7n3jBgrKt0qP-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ppcZ24HeNde6Jd_-H-N5-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="fuXsbmdL7n3jBgrKt0qP-1">
+          <mxGeometry x="294" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppcZ24HeNde6Jd_-H-N5-1" value="COPY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="fuXsbmdL7n3jBgrKt0qP-1">
+          <mxGeometry x="299" y="205" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa24" id="bFLWcZzllAXrwz4tbNvV">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Tfm5mo1Shuo4NQ93KrAR-0" />
+        <mxCell id="Tfm5mo1Shuo4NQ93KrAR-1" parent="Tfm5mo1Shuo4NQ93KrAR-0" />
+        <mxCell id="Tfm5mo1Shuo4NQ93KrAR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Tfm5mo1Shuo4NQ93KrAR-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfm5mo1Shuo4NQ93KrAR-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&amp;nbsp;&lt;/span&gt;-&amp;gt; 8 -&amp;gt; 9&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Tfm5mo1Shuo4NQ93KrAR-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfm5mo1Shuo4NQ93KrAR-4" value="Var1:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 2 -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Tfm5mo1Shuo4NQ93KrAR-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa25" id="PnNa_iXpJiEzik2mzibL">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="dlRxpi523MX8dbkdzLkb-0" />
+        <mxCell id="dlRxpi523MX8dbkdzLkb-1" parent="dlRxpi523MX8dbkdzLkb-0" />
+        <mxCell id="dlRxpi523MX8dbkdzLkb-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dlRxpi523MX8dbkdzLkb-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dlRxpi523MX8dbkdzLkb-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;-&amp;gt; 9&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="dlRxpi523MX8dbkdzLkb-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dlRxpi523MX8dbkdzLkb-4" value="Var1: 8&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 2 -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="dlRxpi523MX8dbkdzLkb-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa26" id="Mvu9kP21HXoBV9yI46Xe">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="jV6AsczwsezjbxX-ED43-0" />
+        <mxCell id="jV6AsczwsezjbxX-ED43-1" parent="jV6AsczwsezjbxX-ED43-0" />
+        <mxCell id="jV6AsczwsezjbxX-ED43-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jV6AsczwsezjbxX-ED43-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6AsczwsezjbxX-ED43-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="jV6AsczwsezjbxX-ED43-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6AsczwsezjbxX-ED43-4" value="Var1: 8&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2: 9&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 2 -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="jV6AsczwsezjbxX-ED43-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa27" id="Iz2qoMpanBTLqproppST">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="UfCuKp9m0kq51_tyWnHd-0" />
+        <mxCell id="UfCuKp9m0kq51_tyWnHd-1" parent="UfCuKp9m0kq51_tyWnHd-0" />
+        <mxCell id="UfCuKp9m0kq51_tyWnHd-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UfCuKp9m0kq51_tyWnHd-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UfCuKp9m0kq51_tyWnHd-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="UfCuKp9m0kq51_tyWnHd-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UfCuKp9m0kq51_tyWnHd-4" value="Var1: 8&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2: 9&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 2 -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="UfCuKp9m0kq51_tyWnHd-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="eqy50RfeIOcK9JCjmdOf-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UfCuKp9m0kq51_tyWnHd-1">
+          <mxGeometry x="294" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eqy50RfeIOcK9JCjmdOf-1" value="Var1 &amp;gt; Var2?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="UfCuKp9m0kq51_tyWnHd-1">
+          <mxGeometry x="299" y="145" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa28" id="0eLJCiOiKGcyo15FoAAy">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="pr7OBeNgck2RnBkAPLPp-0" />
+        <mxCell id="pr7OBeNgck2RnBkAPLPp-1" parent="pr7OBeNgck2RnBkAPLPp-0" />
+        <mxCell id="pr7OBeNgck2RnBkAPLPp-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pr7OBeNgck2RnBkAPLPp-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pr7OBeNgck2RnBkAPLPp-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="pr7OBeNgck2RnBkAPLPp-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pr7OBeNgck2RnBkAPLPp-4" value="Var1: 8&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1: topo -&amp;gt; 9&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 2 -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="pr7OBeNgck2RnBkAPLPp-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa29" id="-2-J9VSCyLAPxpPEZheC">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="D5t-_AxdsDVNXwoBbJd7-0" />
+        <mxCell id="D5t-_AxdsDVNXwoBbJd7-1" parent="D5t-_AxdsDVNXwoBbJd7-0" />
+        <mxCell id="D5t-_AxdsDVNXwoBbJd7-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="D5t-_AxdsDVNXwoBbJd7-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="D5t-_AxdsDVNXwoBbJd7-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="D5t-_AxdsDVNXwoBbJd7-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D5t-_AxdsDVNXwoBbJd7-4" value="Var1:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;topo -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 8 -&amp;gt; 2 -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="D5t-_AxdsDVNXwoBbJd7-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa30" id="Ov0KsgVcnKD_fhd_-7ZD">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="69ShxFapqUHSQKFE9ra1-0" />
+        <mxCell id="69ShxFapqUHSQKFE9ra1-1" parent="69ShxFapqUHSQKFE9ra1-0" />
+        <mxCell id="69ShxFapqUHSQKFE9ra1-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="69ShxFapqUHSQKFE9ra1-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="69ShxFapqUHSQKFE9ra1-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="69ShxFapqUHSQKFE9ra1-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69ShxFapqUHSQKFE9ra1-4" value="Var1:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;topo -&amp;gt; 9&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 8 -&amp;gt; 2 -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="69ShxFapqUHSQKFE9ra1-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="i1aRyciqGNhs0AZHBGty-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="69ShxFapqUHSQKFE9ra1-1">
+          <mxGeometry x="294" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i1aRyciqGNhs0AZHBGty-1" value="COPY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="69ShxFapqUHSQKFE9ra1-1">
+          <mxGeometry x="299" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa31" id="MuHDsTcfI_YKcG57cEKP">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="03WyitR19r9HWZ84XAR4-0" />
+        <mxCell id="03WyitR19r9HWZ84XAR4-1" parent="03WyitR19r9HWZ84XAR4-0" />
+        <mxCell id="03WyitR19r9HWZ84XAR4-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="03WyitR19r9HWZ84XAR4-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="03WyitR19r9HWZ84XAR4-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo -&amp;gt; 9&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="03WyitR19r9HWZ84XAR4-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03WyitR19r9HWZ84XAR4-4" value="Var1:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 8 -&amp;gt; 2 -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="03WyitR19r9HWZ84XAR4-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa32" id="vwAOTWYbplFTwSm_Nhfe">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="CRLNbI6qH-TzqyLacdj_-0" />
+        <mxCell id="CRLNbI6qH-TzqyLacdj_-1" parent="CRLNbI6qH-TzqyLacdj_-0" />
+        <mxCell id="CRLNbI6qH-TzqyLacdj_-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CRLNbI6qH-TzqyLacdj_-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CRLNbI6qH-TzqyLacdj_-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="CRLNbI6qH-TzqyLacdj_-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRLNbI6qH-TzqyLacdj_-4" value="Var1: 9&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 8 -&amp;gt; 2 -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="CRLNbI6qH-TzqyLacdj_-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Etapa33" id="jo8YwRRPorvvgVV8_Xxz">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WLMJ86-isu9-KQGk37hw-0" />
+        <mxCell id="WLMJ86-isu9-KQGk37hw-1" parent="WLMJ86-isu9-KQGk37hw-0" />
+        <mxCell id="WLMJ86-isu9-KQGk37hw-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WLMJ86-isu9-KQGk37hw-1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WLMJ86-isu9-KQGk37hw-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;topo&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="WLMJ86-isu9-KQGk37hw-1">
+          <mxGeometry x="40" y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WLMJ86-isu9-KQGk37hw-4" value="Var1:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;Var2:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha1:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pilha2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultante: topo -&amp;gt; 9 -&amp;gt; 8 -&amp;gt; 2 -&amp;gt; 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="WLMJ86-isu9-KQGk37hw-1">
+          <mxGeometry x="40" y="130" width="410" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
