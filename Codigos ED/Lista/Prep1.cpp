@@ -1,3 +1,18 @@
+/*
+Crie um programa que seja capaz de armazenar em uma lista encadeada as equipes de uma maratona de programação. Para cada equipe deverá ser informado o seu nome, o nome do líder da equipe, a linguagem de programação que será utilizada e a quantidade de membros. Você poderá utilizar o código fornecido como base de implementação.
+
+Os comandos que deverão ser utilizados para execução do programa são:
+
+i: inserir uma nova equipe no inicio da lista. O formato de entrada é: NomeEquipe Lider Linguagem QtdMembros
+h: inserir uma nova equipe no fim da lista. O formato de entrada é: NomeEquipe Lider Linguagem QtdMembros
+m: inserir uma nova equipe na posição informada pelo usuário através de um número inteiro. Considere 0 como a posição inicial da lista. Caso não seja possível inserir na posição indicada imprima "Posição Inexistente!". O formato de entrada é: posiçãoASerInserida NomeEquipe Lider Linguagem QtdMembros
+r: apagar uma determinada equipe do início da lista. Caso não exista a equipe deverá imprimir Remoção em lista vazia!
+a: apagar uma determinada equipe do fim da lista. Caso não exista a equipe deverá imprimir Remoção em lista vazia!
+p: imprimir lista de equipes cadastradas. Imprimir Lista vazia! quando não tiver elemento a ser impresso.
+s: buscar por uma equipe a partir de seu nome. Imprimir Nao encontrado quando a busca não obtiver sucesso.
+Nota: o formato de saída das equipes deve ser: (Nome, Lider, Linguagem, QtdMembros). Para mais instâncias de equipes (comando de impressão), cada uma delas devem ser separadas por quebras de linha.
+*/
+
 #include <iostream>
 #include <cstdlib>
 
@@ -48,7 +63,6 @@ public:
 
     lista& operator=(const lista& umaLista); // Sobrecarga do operador de atribuição
 
-    void insere(equipe elenco);            // Insere no final da lista
     void insereNoFim(equipe elenco);        // Insere no final da lista
     void insereNoInicio(equipe elenco);     // Insere no início da lista
     void insereNaPosicao(int posicao, equipe elenco); // Insere em uma posição específica
