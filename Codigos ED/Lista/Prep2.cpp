@@ -245,15 +245,21 @@ acaoPrograma listadup::removeNoInicio() {
         throw runtime_error("Remoção em lista vazia!");
     }
 
-    noh* aux = primeiro;
-    acaoPrograma acao = aux->acao;
-    primeiro = primeiro->proximo;
-    primeiro->anterior = NULL;
-    delete aux;
-    tamanho--;
-    if (vazia()) {
+    acaoPrograma acao = primeiro->acao;
+    if (primeiro == ultimo) {
+        // Lista com apenas um elemento
+        delete primeiro;
+        primeiro = NULL;
         ultimo = NULL;
+    } 
+    else {
+        // Lista com mais de um elemento
+        noh* aux = primeiro;
+        primeiro = primeiro->proximo;
+        primeiro->anterior = NULL;
+        delete aux;
     }
+    tamanho--;
     return acao;
 }
 
