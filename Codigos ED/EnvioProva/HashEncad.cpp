@@ -207,7 +207,7 @@ bool tabelaHash::insere(const string& c, char& t, const int& v) {
     tabela[posicao].insere(c, t, v);
     tamanho++;
     cout << "chave '" << c << "' inserida na posição " << posicao << endl;
-    if (tamanho/numPosicoes >= 0.7){
+    if ((float)tamanho/numPosicoes >= 0.7){
         cout << "\nÉ necessário redimensionar de " << numPosicoes << " para " << numPosicoes+3 << endl << endl;
         redimensiona();
     }
