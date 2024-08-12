@@ -103,6 +103,8 @@ class AVL{
     void imprimePosOrdem(noh* atual, int nivel); // Imprime a árvore em pós-ordem
     void escreverNivelANivel(ostream& saida); // Escreve a árvore nível a nível
     int getAltura(noh* atual); // Retorna a altura de um nó
+    objeto maximo(); // Retorna o objeto com a maior chave
+    objeto minimo(); // Retorna o objeto com a menor chave
 };
 
 // Implementação do construtor da classe AVL
@@ -172,6 +174,11 @@ void AVL::insererecursivo(noh*& atual, objeto o, bool& cresceu){
 
 // Remove um elemento da árvore com a chave especificada
 void AVL::remover(string c){
+    objeto objAux;
+    if (vazia() || !buscar(c, objAux)){
+        throw runtime_error("ERRO");
+    }
+
     bool diminuiu;
     removerBusca(c, raiz, diminuiu);
 }
@@ -254,6 +261,34 @@ bool AVL::buscar(string c, objeto& objRetorno){
         }
         return false;
     }   
+}
+
+// Função para buscar o objeto com a maior chave na árvore
+objeto AVL::maximo(){
+    if (vazia()){
+        throw runtime_error("ERRO");
+    }
+    else{
+        noh* aux = raiz;
+        while(aux->filhoDireita != NULL){
+            aux = aux->filhoDireita;
+        }
+        return aux->elemento;
+    }
+}
+
+// Função para buscar o objeto com a menor chave na árvore
+objeto AVL::minimo(){
+    if (vazia()){
+        throw runtime_error("ERRO");
+    }
+    else{
+        noh* aux = raiz;
+        while(aux->filhoEsquerda != NULL){
+            aux = aux->filhoEsquerda;
+        }
+        return aux->elemento;
+    }
 }
 
 // Função para imprimir a árvore em pré-ordem (raiz, esquerda, direita)
@@ -450,12 +485,13 @@ int main() {
                     break;
                 case 'r': // remover
                     cin >> chave;
-                    if(avl.buscar(chave, objAux)){
-                        avl.remover(chave);
-                    }
-                    else{
-                        cout << "ERRO" << endl;
-                    }
+                    avl.remover(chave);
+                    break;
+                case 'm': // máximo
+                    cout << avl.maximo().getChave() << endl;
+                    break;
+                case 'n': // mínimo
+                    cout << avl.minimo().getChave() << endl;
                     break;
                 case 'o': 
                     avl.imprimeEmOrdem(avl.getRaiz(), 0);
